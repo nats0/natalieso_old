@@ -1,22 +1,22 @@
 ---
 layout: project
-title: ApplyUp
-subtext: "Created as a part of USC's premier product incubator, LavaLab, the goal was to create and pitch an MVP to venture capitalists and investors within 10-weeks. By working alongside a product manager and two developers, we created ApplyUp."
+title: Halfway There Van Frames
+subtext: "During fall 2021, the founders of Halway There Van Frames reached out to see if I would be interested in creating some renders for their products. They are a small Los Angeles-based start-up and are the Ikea of DIY van framing. They deliver materials pre-cut to your door and provide simple instructions for users to materialize their very own home-on-wheels."
 
-image: applyup_one.png
-video: 
-role: Product Designer
-product: "ApplyUp is a tool that seamlessly fills, tracks and perfects your job applications in seconds."
-timeframe: 10-weeks
-timeline:
-tools: "Figma"
+image: halfway_one.png
+video:
+role:
+product:
+timeframe:
+timeline: "Nov 2021 - Dec 2021"
+deliverables: "Create three furnishing styles to show the versatility of the frames, Set up camera angles to match the existing photos of the real van, Generate multiple renders for each style at various angles"
+tools: "Blender, Adobe Photoshop"
 ---
 
-## Product Screen
+## Original Photos
+<p> There were the three camera angles that were provided:</p>
 <figure>
-<img src="img/applyup_one.gif" style="padding-top: 15px" alt="Image" class="img-fluid">
-<img src="img/applyuptwo.gif" style="padding-top: 15px" alt="Image" class="img-fluid">
-<img src="img/applyup_three.gif" style="padding-top: 15px" alt="Image" class="img-fluid">
+<img src="img/halfway_two.png" style="padding-top: 1em" alt="Image" class="img-fluid">
 </figure>
 
 ## User Flow
