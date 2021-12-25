@@ -19,6 +19,13 @@ tools: "Blender, Adobe Photoshop"
 <img src="img/halfway_two.png" style="padding-top: 1em" alt="Image" class="img-fluid">
 </figure>
 
+<span project_explain markdown="1">
+
+## Basic Frame Structure
+<p> I then took the orignal frames that were designed by the founders in Sketch-up and created three camera angles to match the three photos shown above.
+</p>
+
+
 ## User Flow
 <img src="img/applyup_four.png" style="padding-top: 15px" alt="Image" class="img-fluid">
 

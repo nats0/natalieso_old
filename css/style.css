@@ -19,16 +19,20 @@ body {
   color: #000000;
 }
 
-a {
+/* a {
   color: #777;
 }
 
 a:hover {
   color: #000;
-}
+} */
 
 h1.font-heading {
   padding-top: 3em;
+}
+
+project_explain span{
+  text-align: left;
 }
 
 h2,
