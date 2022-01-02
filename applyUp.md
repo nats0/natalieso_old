@@ -17,7 +17,7 @@ tools: "Figma"
     <div class="col-md-8" data-aos="fade-up" style="padding-top: 40px">
         <h3 id="intro"> PART 1: GENERATIVE RESEARCH </h3>
         <h2 id="mainhead align-items-left" style="padding-top:20px"> The Problem </h2>
-        <p id="redtext"> Job applications suck. </p>
+        <p id="redtext" style="padding-top:5px"> Job applications suck. </p>
         <p>They are time consuming, repetitive, and simply boring. The process involves manually entering the same info multiple times; most of these actions can be automated and streamlined to increase efficiency.</p>
         <h2 id="mainhead align-items-left" style="padding-top:60px"> The Current Landscape</h2>
         <p>for Job and Internship Seekers</p>
@@ -27,7 +27,7 @@ tools: "Figma"
             <p id="stats">Up to 75%</p>
         </div>
         <div id="hide" class="mycol">
-            <p>of job applications are weeded out by ATS or applicant tracking systems before ever seen by a human.</p>
+            <p>of job applications are weeded out by ATS (applicant tracking systems) before ever seen by a human.</p>
         </div>
     </div>
     <div class="myrow">
@@ -35,7 +35,7 @@ tools: "Figma"
             <p id="stats">21 - 80<br>applications</p>
         </div>
         <div id="hide" class="mycol">
-            <p>is how many an individual should submit to have highest probabiliy of receiving a job offer.</p>
+            <p>is how many an individual should submit to have the highest probabiliy of receiving a job offer.</p>
         </div>
     </div>
     <div class="myrow">
@@ -43,7 +43,7 @@ tools: "Figma"
             <p id="stats">30 - 60<br>minutes</p>
         </div>
         <div id="hide" class="mycol">
-            <p>is the average amount of time most people prefer to spend on an application.</p>
+            <p>is the average amount of time most people spend on an application.</p>
         </div>
     </div>
     <div class="col-md-8" data-aos="fade-up" style="padding-top: 40px">
@@ -76,9 +76,9 @@ tools: "Figma"
             <h4>1. Too Text Heavy</h4>
             <p style="padding-left:20px">With ApplyUp primarily a Chrome extension, there is already very little screen real estate for users to work with. Thus, a text-heavy approach with small words and menus will only burden them further and make the process more difficult.</p>
             <h4 style="padding-top:20px">2. Information in the Wrong Order</h4>
-            <p style="padding-left:20px">Although users also have trouble tracking their job applications, their main concern as shown from the user interviews is the need to auto-fill fields. Thus, it does not make the most sense to prompt users with basic job information first; instead, role templates should be shown first.</p>
-            <h4 style="padding-top:20px">3. Manual Input</h4>
-            <p style="padding-left:20px">Instead of selecting the ‘Input Fields’ option, highlighting or typing the question and writing the answer, it would be more efficient for users to just write the correct answer in the actual application field and have the program automatically learn it.</p>
+            <p style="padding-left:20px">Although users also have trouble tracking their job applications, their main concern as shown from the user interviews is the need to auto-fill fields. Thus, it does not make the most sense to prompt users with basic job information first; instead, role templates should be shown.</p>
+            <h4 style="padding-top:20px">3. Still Manually Inputting</h4>
+            <p style="padding-left:20px">As opposed to selecting the ‘Input Fields’ option, highlighting or typing the question and writing the answer, it would be more efficient for users to just write the correct answer in the actual application field and have the program automatically learn it.</p>
         </div>
     </div>
     <div class="col-md-8" data-aos="fade-up" style="padding-top: 40px">
