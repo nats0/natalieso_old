@@ -12,16 +12,26 @@
     margin-top: 1em;
 }
 
-@media screen and (max-width: 575px) {
+@media only screen and (max-width: 1026px) {
     .mainheader {
         display: block;
     }
+
+    #hide {
+        max-width: 50%;
+    }
 }
 
-.content > h2 {
+/* .content > h2 {
     margin-top: 2em;
     text-align: center;
     font-size: 28px;
     font-weight: 700;
+} */
 
-}
+/*
+1: myrow display: flex -> mycols are froggies
+2: If screen is big: max-width: 33%
+3: If screen is small: max-width: 50%
+4: myrow width: 100%
+*/

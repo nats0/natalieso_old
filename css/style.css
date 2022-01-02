@@ -35,13 +35,67 @@ project_explain span{
   text-align: left;
 }
 
-h2,
-h3,
-h4,
+.h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#intro{
+  padding-top: 4em;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  color: #adadad;
+}
+
+#mainhead{
+  font-size:40px;
+  font-weight: 600;
+}
+
+#subtitlehead{
+  font-size:20px;
+  font-weight: 600;
+}
+
+#redtext{
+  color:#da1516;
+  font-weight: 500;
+}
+
+#stats{
+  font-size:30px;
+  font-style: italic;
+}
+
+.h4 {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.heading {
+  font-size: 28px;
+}
+
 h5,
 h6,
 .font-heading {
   font-family: "Rubik", sans-serif;
+  font-weight: 600;
+}
+
+.myrow {
+  display: flex;
+  width: 100%;
+  padding-left:1em;
+  padding-top:1em;
+}
+
+.mycol {
+  width: 100%;
+  max-width: 33%;
+  padding-right:1em;
+  padding-bottom:1em;
 }
 
 .filters a {
@@ -179,24 +233,6 @@ h6,
 
 .testimonial-wrap .testimonial blockquote p {
   font-size: 20px;
-}
-
-.h2 {
-  font-size: 20px;
-  font-weight: 700;
-}
-
-.h3 {
-  font-size: 20px;
-  font-weight: 900;
-}
-
-.h4 {
-  font-size: 16px;
-}
-
-.heading {
-  font-size: 28px;
 }
 
 .readmore {

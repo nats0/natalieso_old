@@ -34,9 +34,9 @@ layout: default
                 <p class="mb-4"> {{ page.role }}</p>
                 {% endif %}
 
-                {% if page.breif != Nil %}
-                <h3 class="h3">Brief: </h3>
-                <p class="mb-4"> {{ page.brief }}</p>
+                {% if page.product != Nil %}
+                <h3 class="h3">Product brief: </h3>
+                <p class="mb-4"> {{ page.product }}</p>
                 {% endif %}
 
                 {% if page.timeframe != Nil %}
@@ -82,7 +82,7 @@ layout: default
 </div>
 
 
-<div class="site-section pb-0">
+<div class="site-section pb-0" data-aos="fade-up">
     <div class="container content">
         {{ content }}
     </div>
