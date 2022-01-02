@@ -1,9 +1,10 @@
 ---
 layout: project
 title: ApplyUp
-subtext: "Created as a part of USC's premier product incubator, LavaLab, the goal was to create and pitch an MVP to venture capitalists and investors within 10-weeks. By working alongside a product manager and two developers, we created ApplyUp."
+subtext: "Created as a part of USC's premier product incubator, LavaLab, the goal was to create and pitch an MVP to venture capitalists and investors within 10-weeks. By working alongside a product manager ([João Aguiar de Souza](https://www.linkedin.com/in/joao-aguiar-de-souza/)) and two developers ([Jason Chen](https://www.linkedin.com/in/jsn-chn/), [Sanjana Ilango](https://www.linkedin.com/in/sanjana~ilango/)), we created ApplyUp."
 
-image: applyup_one.png
+
+image: applyup_one.gif
 video: 
 role: Product Designer
 product: "ApplyUp is a tool that seamlessly fills, tracks and perfects your job applications in seconds."
