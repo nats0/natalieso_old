@@ -50,7 +50,7 @@ tools: "Figma"
         <h2 id="mainhead align-items-left" style="padding-top:20px">User Interviews</h2>
         <p>To gain a deeper understanding of the problems people face while submitting a
         job application online, I conducted user interviews with 10 college students and
-        5 graduates.There were 4 main painpoints:</p>
+        5 graduates. There were 4 main painpoints:</p>
     </div>
     <img src="img/ApplyUpPain.png" style="padding-top: 15px; padding-left:14px; padding-bottom:1em" alt="Image" data-aos="fade-up" class="img-fluid">
     <div class="col-md-8" data-aos="fade-up" style="padding-top: 20px">
