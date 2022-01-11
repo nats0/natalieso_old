@@ -7,16 +7,13 @@ subtext: "Created as a part of USC's premier product incubator, LavaLab, the goa
 image: applyup_one.gif
 video: 
 role: Product Designer
-brief: "ApplyUp is a tool that seamlessly fills, tracks and perfects your job applications in seconds."
+product: "ApplyUp is a tool that seamlessly fills, tracks and perfects your job applications in seconds."
 timeframe: 10-weeks
 timeline:
 tools: "Figma"
 ---
 
-<h3 id="intro"> PART 1: GENERATIVE RESEARCH </h3>
-
-<h2> THE PROBLEM </h2>
-
+## Product Screen
 <figure>
 <img src="img/applyup_one.gif" style="padding-top: 15px" alt="Image" class="img-fluid">
 <img src="img/applyuptwo.gif" style="padding-top: 15px" alt="Image" class="img-fluid">
